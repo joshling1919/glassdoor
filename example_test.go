@@ -1,4 +1,4 @@
-package test
+package glassdoor
 
 func ExampleTest() {
 	Test("hello world")
